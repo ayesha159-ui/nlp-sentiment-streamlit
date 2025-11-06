@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+textblob
+langdetect
+wordcloud
+Pillow
+streamlit
+joblib
+jupyter
