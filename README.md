@@ -4,7 +4,7 @@ This project performs **Natural Language Processing (NLP)–based sentiment anal
 Using text mining, preprocessing, and machine learning, it classifies reviews as **positive**, **negative**, or **neutral**.  
 It also visualizes sentiment distribution, identifies keywords, and extracts key customer insights for business decisions.
 
-![Word Cloud of Reviews](img/original_Bacchanal-Buffet-at-Caesars-Palace.jpg)
+![Word Cloud of Reviews](images/header.jpg)
 ---
 
 ## Project Overview
