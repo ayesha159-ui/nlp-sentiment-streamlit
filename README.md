@@ -16,6 +16,8 @@ In this project, we:
 - Generated **sentiment scores** using both **lexicon-based** and **machine-learning models**.
 - Visualized customer emotions and keyword patterns.
 - Compared the performance of multiple classifiers.
+  
+Website link: https://nlp-sentiment-app.streamlit.app/
 ---
 
 ## Dataset
